@@ -1,0 +1,56 @@
+[
+    {
+        "tglCekIn": "2021-06-01",
+        "tglCekOut": "2021-06-02",
+        "lokasi": "Jakarta",
+        "nama": "hn",
+        "noid": "12",
+        "diskon": 25000,
+        "Tagihan Akhir": 475000
+    },
+    {
+        "tglCekIn": "2021-06-10",
+        "tglCekOut": "2021-06-12",
+        "lokasi": "Semarang",
+        "nama": "we",
+        "noid": "12",
+        "diskon": 50000,
+        "Tagihan Akhir": 950000
+    },
+    {
+        "tglCekIn": "",
+        "tglCekOut": "",
+        "lokasi": "",
+        "nama": "",
+        "noid": "0",
+        "diskon": 0,
+        "Tagihan Akhir": 0
+    },
+    {
+        "tglCekIn": "",
+        "tglCekOut": "",
+        "lokasi": "",
+        "nama": "",
+        "noid": "",
+        "diskon": 0,
+        "Tagihan Akhir": 0
+    },
+    {
+        "tglCekIn": "",
+        "tglCekOut": "",
+        "lokasi": "",
+        "nama": "",
+        "noid": "0",
+        "diskon": 0,
+        "Tagihan Akhir": 0
+    },
+    {
+        "tglCekIn": "",
+        "tglCekOut": "",
+        "lokasi": "",
+        "nama": "",
+        "noid": "0",
+        "diskon": 0,
+        "Tagihan Akhir": 0
+    }
+]
