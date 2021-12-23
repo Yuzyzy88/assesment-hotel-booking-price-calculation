@@ -8,7 +8,7 @@ This is a hotel booking program that takes your check in and check out dates
 
 ## Authors
 - Ayu
-- 
+
 ## Tree
 ```
 Folder PATH listing for volume OS
